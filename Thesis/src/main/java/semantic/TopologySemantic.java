@@ -36,14 +36,12 @@ public class TopologySemantic {
 
         defineSummaries();
 
+        // Uncomment this if you want to create semantics.txt
         sb.append("# of summaries: " + this.semanticCounter);
         for(int i = 0; i < this.decompositionSize; i++) {
             if(this.semanticSummaries[i].size() > 0)
-                sb.append( "Path #"+(i+1) + ":\n\t" + this.semanticSummaries[i].toString(LG));
+                sb.append( "Path["+(i+1) + "]:\n\t" + this.semanticSummaries[i].toString(LG));
         }
-//        for(LNode n : LG.getnodes()) {
-//            System.out.println(n.getlabel() + " -> " + n.getNumOfSemantics());
-//        }
         FileWriter f = new FileWriter(directoryname+"semantic_summaries.txt",true);
         f.write(sb.toString());
         f.close();
