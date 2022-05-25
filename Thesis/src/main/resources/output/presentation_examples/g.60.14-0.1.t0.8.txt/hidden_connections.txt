@@ -1,0 +1,2 @@
+55 & 51 connected hidden through S19 & S24
+35 & 21 connected hidden through S12 & S18

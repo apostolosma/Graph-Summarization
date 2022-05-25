@@ -1,0 +1,116 @@
+# of summaries: 4Path[1]:
+	# of summaries in path: 2
+Semantic Summary ID: 2
+ w/ Common Target Node: 0
+Semantic List Tail: 5
+# of nodes: 8
+,3,2,10,9,8,7,6,5
+Color:	"#97a9ce"
+Type:	TARGET
+
+Semantic Summary ID: 3
+ w/ Common Target Node: 1
+Semantic List Tail: 5
+# of nodes: 8
+,3,2,10,9,8,7,6,5
+Color:	"#b1cedc"
+Type:	TARGET
+
+Path[4]:
+	# of summaries in path: 2
+Semantic Summary ID: 1
+ w/ Common Source Node: 5
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#aabedd"
+Type:	SOURCE
+
+Semantic Summary ID: 4
+ w/ Common Source Node: 3
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#fa8288"
+Type:	SOURCE
+
+# of summaries: 4Path[1]:
+	# of summaries in path: 2
+Semantic Summary ID: 2
+ w/ Common Target Node: 0
+Semantic List Tail: 5
+# of nodes: 8
+,3,2,10,9,8,7,6,5
+Color:	"#c6d692"
+Type:	TARGET
+
+Semantic Summary ID: 3
+ w/ Common Target Node: 1
+Semantic List Tail: 5
+# of nodes: 8
+,3,2,10,9,8,7,6,5
+Color:	"#e1d4d4"
+Type:	TARGET
+
+Path[4]:
+	# of summaries in path: 2
+Semantic Summary ID: 1
+ w/ Common Source Node: 5
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#f08fb2"
+Type:	SOURCE
+
+Semantic Summary ID: 4
+ w/ Common Source Node: 3
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#f9c5fc"
+Type:	SOURCE
+
+# of summaries: 5Path[1]:
+	# of summaries in path: 2
+Semantic Summary ID: 2
+ w/ Common Target Node: 0
+Semantic List Tail: 5
+# of nodes: 5
+,3,2,17,6,5
+Color:	"#aba3ee"
+Type:	TARGET
+
+Semantic Summary ID: 3
+ w/ Common Target Node: 1
+Semantic List Tail: 5
+# of nodes: 5
+,3,2,17,6,5
+Color:	"#dbfaf2"
+Type:	TARGET
+
+Path[2]:
+	# of summaries in path: 3
+Semantic Summary ID: 4
+ w/ Common Source Node: 2
+Semantic List Tail: 4
+# of nodes: 4
+,10,11,1,4
+Color:	"#d3e7a9"
+Type:	SOURCE
+
+Semantic Summary ID: 1
+ w/ Common Source Node: 3
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#97c182"
+Type:	SOURCE
+
+Semantic Summary ID: 5
+ w/ Common Source Node: 5
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#8e89fd"
+Type:	SOURCE
+

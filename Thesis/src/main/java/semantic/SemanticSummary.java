@@ -126,7 +126,7 @@ public class SemanticSummary {
         {
             LNode potential_lnode = LG.getnode((int)potential_vert.getId());
 
-            if((potential_lnode.gety() > firstLNode.gety()) && (potential_lnode.gety() < lastLNode.gety())) //!TODO: INVERSE UPSIDE-DOWN
+            if((potential_lnode.gety() > firstLNode.gety()) && (potential_lnode.gety() < lastLNode.gety()) && !this.nodes.contains(potential_lnode)) //!TODO: INVERSE UPSIDE-DOWN
                 this.nodes.insert(potential_vert, LG);
         }
 

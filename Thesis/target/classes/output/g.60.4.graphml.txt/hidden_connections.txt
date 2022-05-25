@@ -1,2 +1,5 @@
 18 & 3 connected indirectly through S1 & S2
 18 & 3 connected indirectly through S1 & S2
+18 & 3 connected indirectly through S1 & S2
+18 & 3 connected indirectly through S2 & S4
+4 & 0 connected indirectly through S4 & S5

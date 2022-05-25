@@ -1,0 +1,6 @@
+0 & 1 connected indirectly through S2 & S3
+5 & 3 connected indirectly through S1 & S4
+0 & 1 connected indirectly through S2 & S3
+5 & 3 connected indirectly through S1 & S4
+0 & 1 connected indirectly through S2 & S3
+3 & 5 connected indirectly through S1 & S5

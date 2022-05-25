@@ -1,0 +1,2 @@
+1 & 0 connected indirectly through S1 & S2
+3 & 5 connected indirectly through S3 & S4

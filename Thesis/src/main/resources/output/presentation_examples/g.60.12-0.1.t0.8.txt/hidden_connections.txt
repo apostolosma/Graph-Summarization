@@ -1,0 +1,4 @@
+58 & 44 connected indirectly through S19 & S22
+58 & 45 connected indirectly through S20 & S29
+9 & 3 connected hidden through S18 & S34
+16 & 18 connected indirectly through S15 & S27

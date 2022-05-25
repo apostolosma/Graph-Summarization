@@ -1,0 +1,1698 @@
+# of summaries: 103Path[1]:
+	# of summaries in path: 1
+Semantic Summary ID: 93
+ w/ Common Target Node: 43
+Semantic List Tail: 21
+# of nodes: 3
+,0,16,21
+Color:	"#f2fd8b"
+Type:	TARGET
+
+Path[3]:
+	# of summaries in path: 14
+Semantic Summary ID: 13
+ w/ Common Source Node: 0
+Semantic List Tail: 43
+# of nodes: 6
+,1,11,26,32,35,43
+Color:	"#e79692"
+Type:	SOURCE
+
+Semantic Summary ID: 25
+ w/ Common Target Node: 47
+Semantic List Tail: 35
+# of nodes: 5
+,1,11,26,32,35
+Color:	"#d8d0c2"
+Type:	TARGET
+
+Semantic Summary ID: 37
+ w/ Common Target Node: 68
+Semantic List Tail: 35
+# of nodes: 5
+,1,11,26,32,35
+Color:	"#8d87c7"
+Type:	TARGET
+
+Semantic Summary ID: 75
+ w/ Common Target Node: 89
+Semantic List Tail: 35
+# of nodes: 5
+,1,11,26,32,35
+Color:	"#87fa9d"
+Type:	TARGET
+
+Semantic Summary ID: 7
+ w/ Common Target Node: 78
+Semantic List Tail: 35
+# of nodes: 4
+,11,26,32,35
+Color:	"#86cccc"
+Type:	TARGET
+
+Semantic Summary ID: 47
+ w/ Common Target Node: 84
+Semantic List Tail: 79
+# of nodes: 8
+,11,26,32,35,43,64,73,79
+Color:	"#96fbb2"
+Type:	TARGET
+
+Semantic Summary ID: 69
+ w/ Common Target Node: 63
+Semantic List Tail: 32
+# of nodes: 3
+,11,26,32
+Color:	"#9fd69a"
+Type:	TARGET
+
+Semantic Summary ID: 99
+ w/ Common Target Node: 51
+Semantic List Tail: 43
+# of nodes: 5
+,11,26,32,35,43
+Color:	"#e3d8d5"
+Type:	TARGET
+
+Semantic Summary ID: 53
+ w/ Common Source Node: 8
+Semantic List Tail: 79
+# of nodes: 6
+,32,35,43,64,73,79
+Color:	"#9ef5d8"
+Type:	SOURCE
+
+Semantic Summary ID: 54
+ w/ Common Source Node: 17
+Semantic List Tail: 64
+# of nodes: 4
+,32,35,43,64
+Color:	"#fb9bb1"
+Type:	SOURCE
+
+Semantic Summary ID: 71
+ w/ Common Source Node: 19
+Semantic List Tail: 93
+# of nodes: 9
+,32,35,43,64,73,79,85,87,93
+Color:	"#f38efa"
+Type:	SOURCE
+
+Semantic Summary ID: 64
+ w/ Common Source Node: 6
+Semantic List Tail: 64
+# of nodes: 3
+,35,43,64
+Color:	"#fdfdb3"
+Type:	SOURCE
+
+Semantic Summary ID: 89
+ w/ Common Source Node: 72
+Semantic List Tail: 87
+# of nodes: 4
+,73,79,85,87
+Color:	"#97e0ba"
+Type:	SOURCE
+
+Semantic Summary ID: 81
+ w/ Common Source Node: 53
+Semantic List Tail: 93
+# of nodes: 2
+,87,93
+Color:	"#c7f9c9"
+Type:	SOURCE
+
+Path[4]:
+	# of summaries in path: 14
+Semantic Summary ID: 3
+ w/ Common Target Node: 62
+Semantic List Tail: 60
+# of nodes: 7
+,4,14,22,25,37,54,60
+Color:	"#fbc2b9"
+Type:	TARGET
+
+Semantic Summary ID: 11
+ w/ Common Source Node: 0
+Semantic List Tail: 25
+# of nodes: 4
+,4,14,22,25
+Color:	"#88cc9a"
+Type:	SOURCE
+
+Semantic Summary ID: 35
+ w/ Common Target Node: 68
+Semantic List Tail: 22
+# of nodes: 3
+,4,14,22
+Color:	"#d2f3ba"
+Type:	TARGET
+
+Semantic Summary ID: 91
+ w/ Common Target Node: 99
+Semantic List Tail: 60
+# of nodes: 7
+,4,14,22,25,37,54,60
+Color:	"#e2ca89"
+Type:	TARGET
+
+Semantic Summary ID: 24
+ w/ Common Target Node: 56
+Semantic List Tail: 25
+# of nodes: 3
+,14,22,25
+Color:	"#9de6fa"
+Type:	TARGET
+
+Semantic Summary ID: 4
+ w/ Common Source Node: 3
+Semantic List Tail: 63
+# of nodes: 6
+,22,25,37,54,60,63
+Color:	"#dfc192"
+Type:	SOURCE
+
+Semantic Summary ID: 16
+ w/ Common Target Node: 67
+Semantic List Tail: 54
+# of nodes: 4
+,22,25,37,54
+Color:	"#a0fb9a"
+Type:	TARGET
+
+Semantic Summary ID: 73
+ w/ Common Target Node: 40
+Semantic List Tail: 25
+# of nodes: 2
+,22,25
+Color:	"#9ed5fd"
+Type:	TARGET
+
+Semantic Summary ID: 83
+ w/ Common Source Node: 7
+Semantic List Tail: 83
+# of nodes: 9
+,22,25,37,54,60,63,70,75,83
+Color:	"#ba96b6"
+Type:	SOURCE
+
+Semantic Summary ID: 52
+ w/ Common Source Node: 8
+Semantic List Tail: 95
+# of nodes: 9
+,25,37,54,60,63,70,75,83,95
+Color:	"#e089b2"
+Type:	SOURCE
+
+Semantic Summary ID: 100
+ w/ Common Target Node: 94
+Semantic List Tail: 63
+# of nodes: 3
+,54,60,63
+Color:	"#80f19b"
+Type:	TARGET
+
+Semantic Summary ID: 46
+ w/ Common Target Node: 84
+Semantic List Tail: 70
+# of nodes: 3
+,60,63,70
+Color:	"#92ab81"
+Type:	TARGET
+
+Semantic Summary ID: 66
+ w/ Common Source Node: 55
+Semantic List Tail: 75
+# of nodes: 4
+,60,63,70,75
+Color:	"#f7ce8b"
+Type:	SOURCE
+
+Semantic Summary ID: 31
+ w/ Common Source Node: 27
+Semantic List Tail: 83
+# of nodes: 3
+,70,75,83
+Color:	"#aadcd4"
+Type:	SOURCE
+
+Path[5]:
+	# of summaries in path: 16
+Semantic Summary ID: 12
+ w/ Common Source Node: 0
+Semantic List Tail: 3
+# of nodes: 2
+,2,3
+Color:	"#e3b8ef"
+Type:	SOURCE
+
+Semantic Summary ID: 40
+ w/ Common Target Node: 86
+Semantic List Tail: 8
+# of nodes: 2
+,3,8
+Color:	"#81e1b7"
+Type:	TARGET
+
+Semantic Summary ID: 49
+ w/ Common Target Node: 69
+Semantic List Tail: 8
+# of nodes: 2
+,3,8
+Color:	"#a2af96"
+Type:	TARGET
+
+Semantic Summary ID: 98
+ w/ Common Target Node: 46
+Semantic List Tail: 24
+# of nodes: 3
+,8,20,24
+Color:	"#bce1cd"
+Type:	TARGET
+
+Semantic Summary ID: 55
+ w/ Common Source Node: 17
+Semantic List Tail: 74
+# of nodes: 7
+,20,24,42,45,47,59,74
+Color:	"#85f09d"
+Type:	SOURCE
+
+Semantic Summary ID: 76
+ w/ Common Source Node: 9
+Semantic List Tail: 42
+# of nodes: 3
+,20,24,42
+Color:	"#f49ba1"
+Type:	SOURCE
+
+Semantic Summary ID: 32
+ w/ Common Target Node: 50
+Semantic List Tail: 47
+# of nodes: 4
+,24,42,45,47
+Color:	"#98d7f1"
+Type:	TARGET
+
+Semantic Summary ID: 48
+ w/ Common Target Node: 84
+Semantic List Tail: 76
+# of nodes: 7
+,24,42,45,47,59,74,76
+Color:	"#f3a18f"
+Type:	TARGET
+
+Semantic Summary ID: 78
+ w/ Common Source Node: 11
+Semantic List Tail: 78
+# of nodes: 8
+,24,42,45,47,59,74,76,78
+Color:	"#b78aaf"
+Type:	SOURCE
+
+Semantic Summary ID: 17
+ w/ Common Source Node: 32
+Semantic List Tail: 78
+# of nodes: 6
+,45,47,59,74,76,78
+Color:	"#a084f2"
+Type:	SOURCE
+
+Semantic Summary ID: 42
+ w/ Common Source Node: 14
+Semantic List Tail: 59
+# of nodes: 3
+,45,47,59
+Color:	"#bce0b7"
+Type:	SOURCE
+
+Semantic Summary ID: 85
+ w/ Common Source Node: 7
+Semantic List Tail: 76
+# of nodes: 5
+,45,47,59,74,76
+Color:	"#c3c193"
+Type:	SOURCE
+
+Semantic Summary ID: 38
+ w/ Common Source Node: 4
+Semantic List Tail: 99
+# of nodes: 6
+,47,59,74,76,78,99
+Color:	"#f99aa5"
+Type:	SOURCE
+
+Semantic Summary ID: 39
+ w/ Common Source Node: 35
+Semantic List Tail: 78
+# of nodes: 5
+,47,59,74,76,78
+Color:	"#a785fd"
+Type:	SOURCE
+
+Semantic Summary ID: 20
+ w/ Common Source Node: 60
+Semantic List Tail: 99
+# of nodes: 4
+,74,76,78,99
+Color:	"#82f9cf"
+Type:	SOURCE
+
+Semantic Summary ID: 59
+ w/ Common Source Node: 30
+Semantic List Tail: 78
+# of nodes: 3
+,74,76,78
+Color:	"#9afaf7"
+Type:	SOURCE
+
+Path[6]:
+	# of summaries in path: 15
+Semantic Summary ID: 18
+ w/ Common Target Node: 87
+Semantic List Tail: 55
+# of nodes: 13
+,5,6,10,13,15,19,28,39,40,41,52,53,55
+Color:	"#9dba92"
+Type:	TARGET
+
+Semantic Summary ID: 43
+ w/ Common Target Node: 64
+Semantic List Tail: 41
+# of nodes: 9
+,6,10,13,15,19,28,39,40,41
+Color:	"#d9c793"
+Type:	TARGET
+
+Semantic Summary ID: 82
+ w/ Common Source Node: 7
+Semantic List Tail: 28
+# of nodes: 5
+,10,13,15,19,28
+Color:	"#d787f2"
+Type:	SOURCE
+
+Semantic Summary ID: 96
+ w/ Common Target Node: 82
+Semantic List Tail: 55
+# of nodes: 11
+,10,13,15,19,28,39,40,41,52,53,55
+Color:	"#fc9183"
+Type:	TARGET
+
+Semantic Summary ID: 56
+ w/ Common Target Node: 75
+Semantic List Tail: 55
+# of nodes: 9
+,15,19,28,39,40,41,52,53,55
+Color:	"#d3c4a3"
+Type:	TARGET
+
+Semantic Summary ID: 86
+ w/ Common Target Node: 48
+Semantic List Tail: 19
+# of nodes: 2
+,15,19
+Color:	"#b5fbf7"
+Type:	TARGET
+
+Semantic Summary ID: 90
+ w/ Common Target Node: 99
+Semantic List Tail: 53
+# of nodes: 8
+,15,19,28,39,40,41,52,53
+Color:	"#afa2bc"
+Type:	TARGET
+
+Semantic Summary ID: 103
+ w/ Common Target Node: 61
+Semantic List Tail: 28
+# of nodes: 3
+,15,19,28
+Color:	"#81b2ce"
+Type:	TARGET
+
+Semantic Summary ID: 61
+ w/ Common Target Node: 93
+Semantic List Tail: 53
+# of nodes: 7
+,19,28,39,40,41,52,53
+Color:	"#b4bc9f"
+Type:	TARGET
+
+Semantic Summary ID: 14
+ w/ Common Target Node: 98
+Semantic List Tail: 55
+# of nodes: 7
+,28,39,40,41,52,53,55
+Color:	"#d2bfb8"
+Type:	TARGET
+
+Semantic Summary ID: 22
+ w/ Common Target Node: 77
+Semantic List Tail: 40
+# of nodes: 3
+,28,39,40
+Color:	"#c4e2ad"
+Type:	TARGET
+
+Semantic Summary ID: 34
+ w/ Common Target Node: 68
+Semantic List Tail: 55
+# of nodes: 6
+,39,40,41,52,53,55
+Color:	"#b9efc1"
+Type:	TARGET
+
+Semantic Summary ID: 67
+ w/ Common Target Node: 96
+Semantic List Tail: 53
+# of nodes: 4
+,40,41,52,53
+Color:	"#d2ac99"
+Type:	TARGET
+
+Semantic Summary ID: 8
+ w/ Common Target Node: 83
+Semantic List Tail: 53
+# of nodes: 2
+,52,53
+Color:	"#d5fe81"
+Type:	TARGET
+
+Semantic Summary ID: 60
+ w/ Common Source Node: 45
+Semantic List Tail: 55
+# of nodes: 2
+,53,55
+Color:	"#82ebf3"
+Type:	SOURCE
+
+Path[7]:
+	# of summaries in path: 9
+Semantic Summary ID: 10
+ w/ Common Source Node: 0
+Semantic List Tail: 68
+# of nodes: 7
+,9,18,33,34,46,49,68
+Color:	"#fefbd6"
+Type:	SOURCE
+
+Semantic Summary ID: 97
+ w/ Common Target Node: 82
+Semantic List Tail: 33
+# of nodes: 3
+,9,18,33
+Color:	"#dbd9d3"
+Type:	TARGET
+
+Semantic Summary ID: 88
+ w/ Common Source Node: 24
+Semantic List Tail: 81
+# of nodes: 6
+,33,34,46,49,68,81
+Color:	"#aeabd4"
+Type:	SOURCE
+
+Semantic Summary ID: 6
+ w/ Common Target Node: 78
+Semantic List Tail: 49
+# of nodes: 3
+,34,46,49
+Color:	"#b690c0"
+Type:	TARGET
+
+Semantic Summary ID: 51
+ w/ Common Source Node: 8
+Semantic List Tail: 46
+# of nodes: 2
+,34,46
+Color:	"#88e589"
+Type:	SOURCE
+
+Semantic Summary ID: 68
+ w/ Common Source Node: 22
+Semantic List Tail: 68
+# of nodes: 4
+,34,46,49,68
+Color:	"#d3b1e2"
+Type:	SOURCE
+
+Semantic Summary ID: 79
+ w/ Common Source Node: 23
+Semantic List Tail: 68
+# of nodes: 4
+,34,46,49,68
+Color:	"#c1a4a4"
+Type:	SOURCE
+
+Semantic Summary ID: 28
+ w/ Common Source Node: 39
+Semantic List Tail: 68
+# of nodes: 2
+,49,68
+Color:	"#b9bea7"
+Type:	SOURCE
+
+Semantic Summary ID: 2
+ w/ Common Source Node: 62
+Semantic List Tail: 81
+# of nodes: 2
+,68,81
+Color:	"#b9baef"
+Type:	SOURCE
+
+Path[8]:
+	# of summaries in path: 5
+Semantic Summary ID: 19
+ w/ Common Target Node: 87
+Semantic List Tail: 72
+# of nodes: 7
+,12,23,44,57,58,65,72
+Color:	"#e7efba"
+Type:	TARGET
+
+Semantic Summary ID: 26
+ w/ Common Target Node: 71
+Semantic List Tail: 44
+# of nodes: 3
+,12,23,44
+Color:	"#89a29c"
+Type:	TARGET
+
+Semantic Summary ID: 36
+ w/ Common Target Node: 68
+Semantic List Tail: 44
+# of nodes: 2
+,23,44
+Color:	"#cfbeed"
+Type:	TARGET
+
+Semantic Summary ID: 57
+ w/ Common Target Node: 81
+Semantic List Tail: 58
+# of nodes: 2
+,57,58
+Color:	"#c2bcc8"
+Type:	TARGET
+
+Semantic Summary ID: 29
+ w/ Common Source Node: 42
+Semantic List Tail: 91
+# of nodes: 4
+,58,65,72,91
+Color:	"#81ea95"
+Type:	SOURCE
+
+Path[9]:
+	# of summaries in path: 12
+Semantic Summary ID: 30
+ w/ Common Target Node: 74
+Semantic List Tail: 67
+# of nodes: 6
+,17,27,29,31,48,67
+Color:	"#92dbfd"
+Type:	TARGET
+
+Semantic Summary ID: 44
+ w/ Common Target Node: 64
+Semantic List Tail: 27
+# of nodes: 2
+,17,27
+Color:	"#c5fe90"
+Type:	TARGET
+
+Semantic Summary ID: 62
+ w/ Common Source Node: 13
+Semantic List Tail: 29
+# of nodes: 3
+,17,27,29
+Color:	"#de8dd0"
+Type:	SOURCE
+
+Semantic Summary ID: 94
+ w/ Common Target Node: 43
+Semantic List Tail: 29
+# of nodes: 3
+,17,27,29
+Color:	"#f9b0b1"
+Type:	TARGET
+
+Semantic Summary ID: 102
+ w/ Common Target Node: 70
+Semantic List Tail: 31
+# of nodes: 4
+,17,27,29,31
+Color:	"#fefc87"
+Type:	TARGET
+
+Semantic Summary ID: 45
+ w/ Common Target Node: 88
+Semantic List Tail: 48
+# of nodes: 2
+,31,48
+Color:	"#ebdb8e"
+Type:	TARGET
+
+Semantic Summary ID: 80
+ w/ Common Source Node: 23
+Semantic List Tail: 96
+# of nodes: 6
+,31,48,67,71,89,96
+Color:	"#dd85a8"
+Type:	SOURCE
+
+Semantic Summary ID: 70
+ w/ Common Source Node: 19
+Semantic List Tail: 71
+# of nodes: 3
+,48,67,71
+Color:	"#8be1f1"
+Type:	SOURCE
+
+Semantic Summary ID: 84
+ w/ Common Source Node: 7
+Semantic List Tail: 71
+# of nodes: 3
+,48,67,71
+Color:	"#96f6b3"
+Type:	SOURCE
+
+Semantic Summary ID: 58
+ w/ Common Source Node: 54
+Semantic List Tail: 89
+# of nodes: 3
+,67,71,89
+Color:	"#97b097"
+Type:	SOURCE
+
+Semantic Summary ID: 72
+ w/ Common Source Node: 40
+Semantic List Tail: 96
+# of nodes: 4
+,67,71,89,96
+Color:	"#cf88d1"
+Type:	SOURCE
+
+Semantic Summary ID: 63
+ w/ Common Source Node: 12
+Semantic List Tail: 89
+# of nodes: 2
+,71,89
+Color:	"#fd8ddd"
+Type:	SOURCE
+
+Path[10]:
+	# of summaries in path: 1
+Semantic Summary ID: 95
+ w/ Common Target Node: 82
+Semantic List Tail: 38
+# of nodes: 2
+,36,38
+Color:	"#9ad08d"
+Type:	TARGET
+
+Path[11]:
+	# of summaries in path: 13
+Semantic Summary ID: 21
+ w/ Common Target Node: 60
+Semantic List Tail: 51
+# of nodes: 2
+,50,51
+Color:	"#95e5af"
+Type:	TARGET
+
+Semantic Summary ID: 33
+ w/ Common Source Node: 36
+Semantic List Tail: 82
+# of nodes: 6
+,50,51,56,66,69,82
+Color:	"#bcea96"
+Type:	SOURCE
+
+Semantic Summary ID: 41
+ w/ Common Source Node: 14
+Semantic List Tail: 56
+# of nodes: 3
+,50,51,56
+Color:	"#d5cca4"
+Type:	SOURCE
+
+Semantic Summary ID: 87
+ w/ Common Source Node: 24
+Semantic List Tail: 84
+# of nodes: 7
+,50,51,56,66,69,82,84
+Color:	"#d3e2bf"
+Type:	SOURCE
+
+Semantic Summary ID: 50
+ w/ Common Source Node: 8
+Semantic List Tail: 69
+# of nodes: 4
+,51,56,66,69
+Color:	"#bed0b5"
+Type:	SOURCE
+
+Semantic Summary ID: 74
+ w/ Common Source Node: 16
+Semantic List Tail: 82
+# of nodes: 5
+,51,56,66,69,82
+Color:	"#f6ec9b"
+Type:	SOURCE
+
+Semantic Summary ID: 77
+ w/ Common Source Node: 11
+Semantic List Tail: 84
+# of nodes: 6
+,51,56,66,69,82,84
+Color:	"#cacabe"
+Type:	SOURCE
+
+Semantic Summary ID: 92
+ w/ Common Source Node: 43
+Semantic List Tail: 82
+# of nodes: 5
+,51,56,66,69,82
+Color:	"#eec4c6"
+Type:	SOURCE
+
+Semantic Summary ID: 27
+ w/ Common Source Node: 33
+Semantic List Tail: 82
+# of nodes: 4
+,56,66,69,82
+Color:	"#accbf6"
+Type:	SOURCE
+
+Semantic Summary ID: 101
+ w/ Common Target Node: 80
+Semantic List Tail: 69
+# of nodes: 3
+,56,66,69
+Color:	"#cbd5c5"
+Type:	TARGET
+
+Semantic Summary ID: 1
+ w/ Common Source Node: 62
+Semantic List Tail: 98
+# of nodes: 5
+,66,69,82,84,98
+Color:	"#959f8b"
+Type:	SOURCE
+
+Semantic Summary ID: 65
+ w/ Common Source Node: 55
+Semantic List Tail: 98
+# of nodes: 3
+,82,84,98
+Color:	"#ebbdee"
+Type:	SOURCE
+
+Semantic Summary ID: 23
+ w/ Common Target Node: 100
+Semantic List Tail: 98
+# of nodes: 2
+,84,98
+Color:	"#8287ae"
+Type:	TARGET
+
+Path[12]:
+	# of summaries in path: 1
+Semantic Summary ID: 9
+ w/ Common Source Node: 0
+Semantic List Tail: 90
+# of nodes: 2
+,88,90
+Color:	"#98acc2"
+Type:	SOURCE
+
+Path[13]:
+	# of summaries in path: 2
+Semantic Summary ID: 5
+ w/ Common Source Node: 15
+Semantic List Tail: 62
+# of nodes: 2
+,61,62
+Color:	"#d8828d"
+Type:	SOURCE
+
+Semantic Summary ID: 15
+ w/ Common Target Node: 98
+Semantic List Tail: 62
+# of nodes: 2
+,61,62
+Color:	"#d0d0d6"
+Type:	TARGET
+
+# of summaries: 103Path[1]:
+	# of summaries in path: 1
+Semantic Summary ID: 95
+ w/ Common Target Node: 43
+Semantic List Tail: 21
+# of nodes: 3
+,0,16,21
+Color:	"#90f1c7"
+Type:	TARGET
+
+Path[2]:
+	# of summaries in path: 15
+Semantic Summary ID: 80
+ w/ Common Source Node: 0
+Semantic List Tail: 25
+# of nodes: 4
+,2,3,22,25
+Color:	"#97bbb4"
+Type:	SOURCE
+
+Semantic Summary ID: 51
+ w/ Common Target Node: 40
+Semantic List Tail: 25
+# of nodes: 2
+,22,25
+Color:	"#f2fddb"
+Type:	TARGET
+
+Semantic Summary ID: 73
+ w/ Common Target Node: 67
+Semantic List Tail: 54
+# of nodes: 4
+,22,25,37,54
+Color:	"#b2919c"
+Type:	TARGET
+
+Semantic Summary ID: 39
+ w/ Common Target Node: 62
+Semantic List Tail: 60
+# of nodes: 4
+,25,37,54,60
+Color:	"#f7beb3"
+Type:	TARGET
+
+Semantic Summary ID: 62
+ w/ Common Source Node: 8
+Semantic List Tail: 77
+# of nodes: 8
+,25,37,54,60,63,70,75,77
+Color:	"#ff8cda"
+Type:	SOURCE
+
+Semantic Summary ID: 15
+ w/ Common Target Node: 94
+Semantic List Tail: 63
+# of nodes: 3
+,54,60,63
+Color:	"#e9a095"
+Type:	TARGET
+
+Semantic Summary ID: 75
+ w/ Common Source Node: 1
+Semantic List Tail: 89
+# of nodes: 7
+,54,60,63,70,75,77,89
+Color:	"#c19895"
+Type:	SOURCE
+
+Semantic Summary ID: 9
+ w/ Common Source Node: 55
+Semantic List Tail: 75
+# of nodes: 4
+,60,63,70,75
+Color:	"#a2cb84"
+Type:	SOURCE
+
+Semantic Summary ID: 20
+ w/ Common Target Node: 84
+Semantic List Tail: 70
+# of nodes: 3
+,60,63,70
+Color:	"#a283fd"
+Type:	TARGET
+
+Semantic Summary ID: 23
+ w/ Common Source Node: 51
+Semantic List Tail: 77
+# of nodes: 5
+,60,63,70,75,77
+Color:	"#b7c688"
+Type:	SOURCE
+
+Semantic Summary ID: 102
+ w/ Common Source Node: 9
+Semantic List Tail: 96
+# of nodes: 6
+,63,70,75,77,89,96
+Color:	"#83d4d7"
+Type:	SOURCE
+
+Semantic Summary ID: 17
+ w/ Common Source Node: 31
+Semantic List Tail: 89
+# of nodes: 4
+,70,75,77,89
+Color:	"#87cabe"
+Type:	SOURCE
+
+Semantic Summary ID: 47
+ w/ Common Source Node: 23
+Semantic List Tail: 96
+# of nodes: 5
+,70,75,77,89,96
+Color:	"#e58dcf"
+Type:	SOURCE
+
+Semantic Summary ID: 50
+ w/ Common Source Node: 40
+Semantic List Tail: 96
+# of nodes: 3
+,77,89,96
+Color:	"#9ffd8a"
+Type:	SOURCE
+
+Semantic Summary ID: 72
+ w/ Common Source Node: 12
+Semantic List Tail: 89
+# of nodes: 2
+,77,89
+Color:	"#9cd9ee"
+Type:	SOURCE
+
+Path[3]:
+	# of summaries in path: 10
+Semantic Summary ID: 43
+ w/ Common Target Node: 68
+Semantic List Tail: 62
+# of nodes: 6
+,4,14,50,51,61,62
+Color:	"#edb8b9"
+Type:	TARGET
+
+Semantic Summary ID: 57
+ w/ Common Target Node: 99
+Semantic List Tail: 51
+# of nodes: 4
+,4,14,50,51
+Color:	"#82dad9"
+Type:	TARGET
+
+Semantic Summary ID: 81
+ w/ Common Source Node: 0
+Semantic List Tail: 50
+# of nodes: 3
+,4,14,50
+Color:	"#90899d"
+Type:	SOURCE
+
+Semantic Summary ID: 33
+ w/ Common Target Node: 56
+Semantic List Tail: 51
+# of nodes: 3
+,14,50,51
+Color:	"#c0ecad"
+Type:	TARGET
+
+Semantic Summary ID: 71
+ w/ Common Source Node: 12
+Semantic List Tail: 62
+# of nodes: 5
+,14,50,51,61,62
+Color:	"#bb97e2"
+Type:	SOURCE
+
+Semantic Summary ID: 11
+ w/ Common Source Node: 24
+Semantic List Tail: 81
+# of nodes: 5
+,50,51,61,62,81
+Color:	"#cbecf7"
+Type:	SOURCE
+
+Semantic Summary ID: 44
+ w/ Common Source Node: 36
+Semantic List Tail: 51
+# of nodes: 2
+,50,51
+Color:	"#eaafd0"
+Type:	SOURCE
+
+Semantic Summary ID: 56
+ w/ Common Target Node: 60
+Semantic List Tail: 51
+# of nodes: 2
+,50,51
+Color:	"#c5d6e4"
+Type:	TARGET
+
+Semantic Summary ID: 91
+ w/ Common Target Node: 98
+Semantic List Tail: 81
+# of nodes: 4
+,51,61,62,81
+Color:	"#91c3bb"
+Type:	TARGET
+
+Semantic Summary ID: 65
+ w/ Common Source Node: 15
+Semantic List Tail: 62
+# of nodes: 2
+,61,62
+Color:	"#ce9395"
+Type:	SOURCE
+
+Path[4]:
+	# of summaries in path: 2
+Semantic Summary ID: 32
+ w/ Common Target Node: 82
+Semantic List Tail: 43
+# of nodes: 3
+,9,18,43
+Color:	"#95e8a2"
+Type:	TARGET
+
+Semantic Summary ID: 77
+ w/ Common Source Node: 0
+Semantic List Tail: 43
+# of nodes: 3
+,9,18,43
+Color:	"#cef3f2"
+Type:	SOURCE
+
+Path[5]:
+	# of summaries in path: 3
+Semantic Summary ID: 42
+ w/ Common Target Node: 68
+Semantic List Tail: 23
+# of nodes: 3
+,1,12,23
+Color:	"#f885dd"
+Type:	TARGET
+
+Semantic Summary ID: 46
+ w/ Common Target Node: 47
+Semantic List Tail: 23
+# of nodes: 3
+,1,12,23
+Color:	"#8eedaa"
+Type:	TARGET
+
+Semantic Summary ID: 89
+ w/ Common Target Node: 89
+Semantic List Tail: 12
+# of nodes: 2
+,1,12
+Color:	"#cff9d6"
+Type:	TARGET
+
+Path[6]:
+	# of summaries in path: 3
+Semantic Summary ID: 2
+ w/ Common Target Node: 78
+Semantic List Tail: 35
+# of nodes: 4
+,11,26,32,35
+Color:	"#c2a8f5"
+Type:	TARGET
+
+Semantic Summary ID: 26
+ w/ Common Target Node: 63
+Semantic List Tail: 32
+# of nodes: 3
+,11,26,32
+Color:	"#af869e"
+Type:	TARGET
+
+Semantic Summary ID: 100
+ w/ Common Target Node: 87
+Semantic List Tail: 35
+# of nodes: 2
+,32,35
+Color:	"#cef3b5"
+Type:	TARGET
+
+Path[7]:
+	# of summaries in path: 16
+Semantic Summary ID: 5
+ w/ Common Target Node: 83
+Semantic List Tail: 27
+# of nodes: 5
+,7,10,13,17,27
+Color:	"#979688"
+Type:	TARGET
+
+Semantic Summary ID: 59
+ w/ Common Target Node: 22
+Semantic List Tail: 10
+# of nodes: 2
+,7,10
+Color:	"#9da19f"
+Type:	TARGET
+
+Semantic Summary ID: 67
+ w/ Common Target Node: 65
+Semantic List Tail: 29
+# of nodes: 6
+,7,10,13,17,27,29
+Color:	"#9ad1a7"
+Type:	TARGET
+
+Semantic Summary ID: 74
+ w/ Common Target Node: 74
+Semantic List Tail: 67
+# of nodes: 9
+,7,10,13,17,27,29,31,48,67
+Color:	"#cfa79d"
+Type:	TARGET
+
+Semantic Summary ID: 78
+ w/ Common Source Node: 0
+Semantic List Tail: 48
+# of nodes: 8
+,7,10,13,17,27,29,31,48
+Color:	"#fcbcca"
+Type:	SOURCE
+
+Semantic Summary ID: 31
+ w/ Common Target Node: 82
+Semantic List Tail: 29
+# of nodes: 5
+,10,13,17,27,29
+Color:	"#8cdf9c"
+Type:	TARGET
+
+Semantic Summary ID: 66
+ w/ Common Target Node: 15
+Semantic List Tail: 13
+# of nodes: 2
+,10,13
+Color:	"#eb9fb6"
+Type:	TARGET
+
+Semantic Summary ID: 68
+ w/ Common Target Node: 20
+Semantic List Tail: 17
+# of nodes: 2
+,13,17
+Color:	"#93a8fa"
+Type:	TARGET
+
+Semantic Summary ID: 14
+ w/ Common Target Node: 70
+Semantic List Tail: 31
+# of nodes: 4
+,17,27,29,31
+Color:	"#d5ca90"
+Type:	TARGET
+
+Semantic Summary ID: 48
+ w/ Common Target Node: 64
+Semantic List Tail: 27
+# of nodes: 2
+,17,27
+Color:	"#d1d6e4"
+Type:	TARGET
+
+Semantic Summary ID: 96
+ w/ Common Target Node: 43
+Semantic List Tail: 29
+# of nodes: 3
+,17,27,29
+Color:	"#86fef7"
+Type:	TARGET
+
+Semantic Summary ID: 7
+ w/ Common Target Node: 88
+Semantic List Tail: 48
+# of nodes: 2
+,31,48
+Color:	"#d785a5"
+Type:	TARGET
+
+Semantic Summary ID: 88
+ w/ Common Target Node: 89
+Semantic List Tail: 71
+# of nodes: 4
+,31,48,67,71
+Color:	"#a6a9a2"
+Type:	TARGET
+
+Semantic Summary ID: 37
+ w/ Common Source Node: 19
+Semantic List Tail: 93
+# of nodes: 5
+,48,67,71,87,93
+Color:	"#c3ee93"
+Type:	SOURCE
+
+Semantic Summary ID: 70
+ w/ Common Source Node: 12
+Semantic List Tail: 87
+# of nodes: 2
+,71,87
+Color:	"#a4c7a8"
+Type:	SOURCE
+
+Semantic Summary ID: 12
+ w/ Common Source Node: 53
+Semantic List Tail: 93
+# of nodes: 2
+,87,93
+Color:	"#8bdf9b"
+Type:	SOURCE
+
+Path[8]:
+	# of summaries in path: 10
+Semantic Summary ID: 13
+ w/ Common Target Node: 53
+Semantic List Tail: 49
+# of nodes: 9
+,5,6,8,20,24,33,34,46,49
+Color:	"#b084b4"
+Type:	TARGET
+
+Semantic Summary ID: 79
+ w/ Common Source Node: 0
+Semantic List Tail: 90
+# of nodes: 11
+,5,6,8,20,24,33,34,46,49,88,90
+Color:	"#94aa8b"
+Type:	SOURCE
+
+Semantic Summary ID: 19
+ w/ Common Target Node: 84
+Semantic List Tail: 24
+# of nodes: 4
+,6,8,20,24
+Color:	"#94a0b4"
+Type:	TARGET
+
+Semantic Summary ID: 49
+ w/ Common Target Node: 64
+Semantic List Tail: 20
+# of nodes: 3
+,6,8,20
+Color:	"#befbe3"
+Type:	TARGET
+
+Semantic Summary ID: 1
+ w/ Common Target Node: 69
+Semantic List Tail: 49
+# of nodes: 7
+,8,20,24,33,34,46,49
+Color:	"#e5e6ed"
+Type:	TARGET
+
+Semantic Summary ID: 21
+ w/ Common Source Node: 2
+Semantic List Tail: 49
+# of nodes: 5
+,24,33,34,46,49
+Color:	"#a9c2aa"
+Type:	SOURCE
+
+Semantic Summary ID: 45
+ w/ Common Target Node: 36
+Semantic List Tail: 33
+# of nodes: 2
+,24,33
+Color:	"#e9a1b1"
+Type:	TARGET
+
+Semantic Summary ID: 3
+ w/ Common Target Node: 78
+Semantic List Tail: 49
+# of nodes: 3
+,34,46,49
+Color:	"#c1eaa2"
+Type:	TARGET
+
+Semantic Summary ID: 93
+ w/ Common Target Node: 91
+Semantic List Tail: 90
+# of nodes: 5
+,34,46,49,88,90
+Color:	"#cdbade"
+Type:	TARGET
+
+Semantic Summary ID: 16
+ w/ Common Source Node: 31
+Semantic List Tail: 88
+# of nodes: 3
+,46,49,88
+Color:	"#dcadca"
+Type:	SOURCE
+
+Path[9]:
+	# of summaries in path: 10
+Semantic Summary ID: 40
+ w/ Common Target Node: 48
+Semantic List Tail: 19
+# of nodes: 2
+,15,19
+Color:	"#c0ce8f"
+Type:	TARGET
+
+Semantic Summary ID: 54
+ w/ Common Target Node: 61
+Semantic List Tail: 28
+# of nodes: 3
+,15,19,28
+Color:	"#b4d8e9"
+Type:	TARGET
+
+Semantic Summary ID: 85
+ w/ Common Source Node: 13
+Semantic List Tail: 39
+# of nodes: 4
+,15,19,28,39
+Color:	"#8dee89"
+Type:	SOURCE
+
+Semantic Summary ID: 84
+ w/ Common Target Node: 77
+Semantic List Tail: 40
+# of nodes: 3
+,28,39,40
+Color:	"#bca687"
+Type:	TARGET
+
+Semantic Summary ID: 90
+ w/ Common Target Node: 98
+Semantic List Tail: 85
+# of nodes: 8
+,28,39,40,41,64,73,79,85
+Color:	"#e3bbd7"
+Type:	TARGET
+
+Semantic Summary ID: 60
+ w/ Common Target Node: 92
+Semantic List Tail: 64
+# of nodes: 3
+,40,41,64
+Color:	"#90fd82"
+Type:	TARGET
+
+Semantic Summary ID: 64
+ w/ Common Source Node: 30
+Semantic List Tail: 79
+# of nodes: 5
+,40,41,64,73,79
+Color:	"#cbb1bd"
+Type:	SOURCE
+
+Semantic Summary ID: 94
+ w/ Common Source Node: 43
+Semantic List Tail: 85
+# of nodes: 4
+,64,73,79,85
+Color:	"#b3d5cd"
+Type:	SOURCE
+
+Semantic Summary ID: 6
+ w/ Common Source Node: 72
+Semantic List Tail: 91
+# of nodes: 4
+,73,79,85,91
+Color:	"#d6b5f3"
+Type:	SOURCE
+
+Semantic Summary ID: 41
+ w/ Common Source Node: 34
+Semantic List Tail: 91
+# of nodes: 4
+,73,79,85,91
+Color:	"#c682f5"
+Type:	SOURCE
+
+Path[10]:
+	# of summaries in path: 9
+Semantic Summary ID: 10
+ w/ Common Source Node: 24
+Semantic List Tail: 99
+# of nodes: 8
+,42,45,47,59,74,76,78,99
+Color:	"#d7ae9c"
+Type:	SOURCE
+
+Semantic Summary ID: 18
+ w/ Common Target Node: 84
+Semantic List Tail: 76
+# of nodes: 6
+,42,45,47,59,74,76
+Color:	"#e2a0d2"
+Type:	TARGET
+
+Semantic Summary ID: 61
+ w/ Common Source Node: 14
+Semantic List Tail: 59
+# of nodes: 3
+,45,47,59
+Color:	"#d39797"
+Type:	SOURCE
+
+Semantic Summary ID: 69
+ w/ Common Source Node: 32
+Semantic List Tail: 78
+# of nodes: 6
+,45,47,59,74,76,78
+Color:	"#cce4a2"
+Type:	SOURCE
+
+Semantic Summary ID: 87
+ w/ Common Source Node: 7
+Semantic List Tail: 76
+# of nodes: 5
+,45,47,59,74,76
+Color:	"#d6a7ff"
+Type:	SOURCE
+
+Semantic Summary ID: 35
+ w/ Common Source Node: 4
+Semantic List Tail: 99
+# of nodes: 6
+,47,59,74,76,78,99
+Color:	"#e0a8d9"
+Type:	SOURCE
+
+Semantic Summary ID: 98
+ w/ Common Source Node: 35
+Semantic List Tail: 78
+# of nodes: 5
+,47,59,74,76,78
+Color:	"#bce584"
+Type:	SOURCE
+
+Semantic Summary ID: 55
+ w/ Common Source Node: 60
+Semantic List Tail: 99
+# of nodes: 4
+,74,76,78,99
+Color:	"#a792cf"
+Type:	SOURCE
+
+Semantic Summary ID: 63
+ w/ Common Source Node: 30
+Semantic List Tail: 78
+# of nodes: 3
+,74,76,78
+Color:	"#828dc3"
+Type:	SOURCE
+
+Path[11]:
+	# of summaries in path: 4
+Semantic Summary ID: 24
+ w/ Common Target Node: 51
+Semantic List Tail: 44
+# of nodes: 2
+,36,44
+Color:	"#d1bd9f"
+Type:	TARGET
+
+Semantic Summary ID: 29
+ w/ Common Target Node: 82
+Semantic List Tail: 57
+# of nodes: 3
+,36,44,57
+Color:	"#edf296"
+Type:	TARGET
+
+Semantic Summary ID: 28
+ w/ Common Target Node: 81
+Semantic List Tail: 58
+# of nodes: 2
+,57,58
+Color:	"#9eeccd"
+Type:	TARGET
+
+Semantic Summary ID: 92
+ w/ Common Target Node: 91
+Semantic List Tail: 72
+# of nodes: 2
+,65,72
+Color:	"#c1fc82"
+Type:	TARGET
+
+Path[12]:
+	# of summaries in path: 14
+Semantic Summary ID: 30
+ w/ Common Target Node: 82
+Semantic List Tail: 55
+# of nodes: 4
+,38,52,53,55
+Color:	"#b7c6e7"
+Type:	TARGET
+
+Semantic Summary ID: 34
+ w/ Common Target Node: 96
+Semantic List Tail: 86
+# of nodes: 7
+,38,52,53,55,68,80,86
+Color:	"#ede2a3"
+Type:	TARGET
+
+Semantic Summary ID: 52
+ w/ Common Source Node: 16
+Semantic List Tail: 53
+# of nodes: 3
+,38,52,53
+Color:	"#e8c0f5"
+Type:	SOURCE
+
+Semantic Summary ID: 103
+ w/ Common Target Node: 58
+Semantic List Tail: 52
+# of nodes: 2
+,38,52
+Color:	"#add6cf"
+Type:	TARGET
+
+Semantic Summary ID: 4
+ w/ Common Target Node: 83
+Semantic List Tail: 53
+# of nodes: 2
+,52,53
+Color:	"#c4fc80"
+Type:	TARGET
+
+Semantic Summary ID: 36
+ w/ Common Source Node: 4
+Semantic List Tail: 68
+# of nodes: 4
+,52,53,55,68
+Color:	"#cff8f5"
+Type:	SOURCE
+
+Semantic Summary ID: 99
+ w/ Common Source Node: 35
+Semantic List Tail: 68
+# of nodes: 4
+,52,53,55,68
+Color:	"#fd81ff"
+Type:	SOURCE
+
+Semantic Summary ID: 25
+ w/ Common Source Node: 45
+Semantic List Tail: 55
+# of nodes: 2
+,53,55
+Color:	"#f5aad5"
+Type:	SOURCE
+
+Semantic Summary ID: 83
+ w/ Common Source Node: 49
+Semantic List Tail: 68
+# of nodes: 3
+,53,55,68
+Color:	"#d6d4d9"
+Type:	SOURCE
+
+Semantic Summary ID: 97
+ w/ Common Source Node: 11
+Semantic List Tail: 80
+# of nodes: 4
+,53,55,68,80
+Color:	"#c688d6"
+Type:	SOURCE
+
+Semantic Summary ID: 101
+ w/ Common Target Node: 87
+Semantic List Tail: 55
+# of nodes: 2
+,53,55
+Color:	"#d7cfd3"
+Type:	TARGET
+
+Semantic Summary ID: 86
+ w/ Common Source Node: 44
+Semantic List Tail: 80
+# of nodes: 3
+,55,68,80
+Color:	"#9e9294"
+Type:	SOURCE
+
+Semantic Summary ID: 58
+ w/ Common Source Node: 22
+Semantic List Tail: 92
+# of nodes: 4
+,68,80,86,92
+Color:	"#f4d8a4"
+Type:	SOURCE
+
+Semantic Summary ID: 76
+ w/ Common Source Node: 0
+Semantic List Tail: 80
+# of nodes: 2
+,68,80
+Color:	"#94ecf7"
+Type:	SOURCE
+
+Path[13]:
+	# of summaries in path: 6
+Semantic Summary ID: 22
+ w/ Common Source Node: 51
+Semantic List Tail: 98
+# of nodes: 6
+,56,66,69,82,84,98
+Color:	"#fec0fc"
+Type:	SOURCE
+
+Semantic Summary ID: 53
+ w/ Common Source Node: 33
+Semantic List Tail: 82
+# of nodes: 4
+,56,66,69,82
+Color:	"#cca1d1"
+Type:	SOURCE
+
+Semantic Summary ID: 82
+ w/ Common Target Node: 80
+Semantic List Tail: 69
+# of nodes: 3
+,56,66,69
+Color:	"#e7ffdd"
+Type:	TARGET
+
+Semantic Summary ID: 38
+ w/ Common Source Node: 62
+Semantic List Tail: 98
+# of nodes: 5
+,66,69,82,84,98
+Color:	"#ddf6bc"
+Type:	SOURCE
+
+Semantic Summary ID: 8
+ w/ Common Source Node: 55
+Semantic List Tail: 98
+# of nodes: 3
+,82,84,98
+Color:	"#96f3b6"
+Type:	SOURCE
+
+Semantic Summary ID: 27
+ w/ Common Source Node: 81
+Semantic List Tail: 100
+# of nodes: 2
+,98,100
+Color:	"#9486b4"
+Type:	SOURCE
+

@@ -1,0 +1,15 @@
+g.20.11-0.3_neigh.gml:
+	Nodes before: 21 -> Nodes after: 11
+	Reduction %: 47.61905 %
+	Edges before: 53 -> Edges after: 42
+	Reduction %: 20.754717 %
+g.20.11-0.3_neigh.gml:
+	Nodes before: 21 -> Nodes after: 11
+	Reduction %: 47.61905 %
+	Edges before: 53 -> Edges after: 42
+	Reduction %: 20.754717 %
+g.20.11-0.3_neigh.gml:
+	Nodes before: 21 -> Nodes after: 11
+	Reduction %: 47.61905 %
+	Edges before: 53 -> Edges after: 42
+	Reduction %: 20.754717 %

@@ -1,0 +1,6 @@
+8 & 6 connected indirectly through S5 & S23
+7 & 12 connected indirectly through S12 & S19
+18 & 15 connected indirectly through S18 & S15
+16 & 14 connected indirectly through S1 & S2
+17 & 15 connected indirectly through S3 & S15
+1 & 3 connected indirectly through S8 & S17

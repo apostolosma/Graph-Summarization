@@ -8,3 +8,18 @@ g.60.3.graphml_neigh.gml:
 	Reduction %: 46.666668 %
 	Edges before: 95 -> Edges after: 79
 	Reduction %: 16.842106 %
+g.60.3.graphml_neigh.gml:
+	Nodes before: 60 -> Nodes after: 32
+	Reduction %: 46.666668 %
+	Edges before: 95 -> Edges after: 79
+	Reduction %: 16.842106 %
+g.60.3.graphml_neigh.gml:
+	Nodes before: 60 -> Nodes after: 33
+	Reduction %: 45.0 %
+	Edges before: 95 -> Edges after: 81
+	Reduction %: 14.736841 %
+g.60.3.graphml_neigh.gml:
+	Nodes before: 60 -> Nodes after: 31
+	Reduction %: 48.333332 %
+	Edges before: 95 -> Edges after: 79
+	Reduction %: 16.842106 %

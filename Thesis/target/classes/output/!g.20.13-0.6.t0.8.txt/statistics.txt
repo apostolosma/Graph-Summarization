@@ -1,0 +1,5 @@
+g.20.13-0.6_neigh.gml:
+	Nodes before: 21 -> Nodes after: 14
+	Reduction %: 33.333336 %
+	Edges before: 91 -> Edges after: 57
+	Reduction %: 37.362637 %

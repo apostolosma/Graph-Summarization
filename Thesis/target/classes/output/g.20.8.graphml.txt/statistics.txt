@@ -1,0 +1,15 @@
+g.20.8.graphml_neigh.gml:
+	Nodes before: 20 -> Nodes after: 10
+	Reduction %: 50.0 %
+	Edges before: 30 -> Edges after: 20
+	Reduction %: 33.333336 %
+g.20.8.graphml_neigh.gml:
+	Nodes before: 20 -> Nodes after: 10
+	Reduction %: 50.0 %
+	Edges before: 30 -> Edges after: 20
+	Reduction %: 33.333336 %
+g.20.8.graphml_neigh.gml:
+	Nodes before: 20 -> Nodes after: 8
+	Reduction %: 60.000004 %
+	Edges before: 30 -> Edges after: 17
+	Reduction %: 43.333332 %

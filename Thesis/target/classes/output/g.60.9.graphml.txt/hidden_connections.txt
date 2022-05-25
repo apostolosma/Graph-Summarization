@@ -1,3 +1,9 @@
 3 & 11 connected indirectly through S9 & S10
 5 & 3 connected indirectly through S1 & S8
 3 & 11 connected indirectly through S9 & S10
+5 & 3 connected indirectly through S1 & S8
+3 & 11 connected indirectly through S9 & S10
+5 & 3 connected indirectly through S8 & S10
+11 & 3 connected indirectly through S2 & S11
+5 & 3 connected indirectly through S3 & S10
+11 & 3 connected indirectly through S5 & S9

@@ -1,0 +1,16 @@
+53 & 48 connected hidden through S10 & S60
+53 & 40 connected hidden through S10 & S52
+48 & 40 connected hidden through S60 & S52
+56 & 71 connected indirectly through S13 & S18
+71 & 60 connected hidden through S18 & S29
+94 & 91 connected hidden through S41 & S35
+79 & 70 connected indirectly through S22 & S72
+47 & 38 connected indirectly through S39 & S56
+47 & 31 connected indirectly through S39 & S9
+38 & 31 connected indirectly through S56 & S9
+38 & 54 connected hidden through S56 & S37
+31 & 54 connected hidden through S9 & S37
+31 & 75 connected indirectly through S9 & S8
+54 & 75 connected indirectly through S37 & S8
+64 & 60 connected hidden through S16 & S30
+71 & 96 connected hidden through S17 & S32

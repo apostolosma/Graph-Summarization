@@ -1,0 +1,12 @@
+2 & 0 connected indirectly through S3 & S5
+2 & 4 connected indirectly through S3 & S1
+0 & 4 connected indirectly through S5 & S1
+3 & 5 connected indirectly through S2 & S4
+2 & 0 connected indirectly through S3 & S5
+2 & 4 connected indirectly through S3 & S1
+0 & 4 connected indirectly through S5 & S1
+3 & 5 connected indirectly through S2 & S4
+2 & 0 connected indirectly through S3 & S5
+2 & 4 connected indirectly through S3 & S1
+0 & 4 connected indirectly through S5 & S1
+3 & 5 connected indirectly through S2 & S4

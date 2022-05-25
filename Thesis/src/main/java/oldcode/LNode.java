@@ -15,10 +15,12 @@ public class LNode{
     private final String[] colorPalette = {"\"#32CD32\"","\"#E12120\"","\"#743E0C\"", // Green, Red, Brown
                                             "\"#EFD30B\"","\"#F18405\"","\"#1e90ff\"", // Yellow, Orange, Blue
                                             "\"#800080\""}; // Purple
+
 	private Channel inChannel;
 	private Summary topSumm;
 	private int numOfSemantics;
 	private HashSet<SemanticSummary> semanticSummaries;
+	public int outlineWidth;
 
 
 	public void addSemanticSummary(SemanticSummary s) {
@@ -60,8 +62,8 @@ public class LNode{
 	public String outline = "\"#000000\"";
 	public final String pattern = "\"Solid\"";
 	public final String stipple = "\"Solid\"";
-	public final double lineWidth = 1.0000000000;
-	public final String type = "\"Ellipse\"";
+	public double lineWidth = 1.0000000000;
+	public String type = "\"Ellipse\"";
 	public Channel getInChannel() {
 		return inChannel;
 	}
@@ -114,6 +116,7 @@ public class LNode{
 		node+=("\t\t\th\t"+this.h+"\n");
 		node+=("\t\t\tfill\t"+this.fill+"\n");
 		node+=("\t\t\toutline\t"+this.outline+"\n");
+		node+=("\t\t\toutlineWidth\t"+this.outlineWidth+"\n");
 		node+=("\t\t\tpattern\t"+this.pattern+"\n");
 		node+=("\t\t\tstipple\t"+this.stipple+"\n");
 		node+=("\t\t\tlineWidth\t"+this.lineWidth+"\n");

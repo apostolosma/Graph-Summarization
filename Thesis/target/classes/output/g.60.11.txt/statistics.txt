@@ -1,0 +1,65 @@
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 28
+	Reduction %: 54.098362 %
+	Edges before: 727 -> Edges after: 306
+	Reduction %: 57.909214 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 28
+	Reduction %: 54.098362 %
+	Edges before: 727 -> Edges after: 306
+	Reduction %: 57.909214 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %
+g.60.11_neigh.gml:
+	Nodes before: 61 -> Nodes after: 27
+	Reduction %: 55.737705 %
+	Edges before: 723 -> Edges after: 261
+	Reduction %: 63.900417 %

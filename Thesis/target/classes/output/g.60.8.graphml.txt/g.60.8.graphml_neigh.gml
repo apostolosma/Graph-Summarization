@@ -24,11 +24,11 @@ graph
 	[
 		id	2
 		template	""
-		label	"S22,32,33,49,48"
+		label	"S7,6,5"
 		graphics
 		[
 			x	0.0
-			y	700.0
+			y	5000.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -43,30 +43,11 @@ graph
 	[
 		id	3
 		template	""
-		label	"S47"
+		label	"S22,32,33,49,48"
 		graphics
 		[
-			x	0.0
-			y	4700.0
-			w	40.0
-			h	40.0
-			fill	"#808080"
-			outline	"#000000"
-			pattern	"Solid"
-			stipple	"Solid"
-			lineWidth	1.0
-			type	"circle"
-		]
-	]
-	node
-	[
-		id	4
-		template	""
-		label	"S12,8"
-		graphics
-		[
-			x	0.0
-			y	5300.0
+			x	105.0
+			y	500.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -79,13 +60,32 @@ graph
 	]
 	node
 	[
-		id	5
+		id	4
 		template	""
-		label	"S7"
+		label	"S47"
 		graphics
 		[
-			x	110.0
-			y	100.0
+			x	105.0
+			y	4600.0
+			w	40.0
+			h	40.0
+			fill	"#808080"
+			outline	"#000000"
+			pattern	"Solid"
+			stipple	"Solid"
+			lineWidth	1.0
+			type	"circle"
+		]
+	]
+	node
+	[
+		id	5
+		template	""
+		label	"S12"
+		graphics
+		[
+			x	105.0
+			y	5200.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -100,30 +100,11 @@ graph
 	[
 		id	6
 		template	""
-		label	"S6,5"
+		label	"S8"
 		graphics
 		[
-			x	110.0
-			y	5000.0
-			w	80.0
-			h	80.0
-			fill	"#808080"
-			outline	"#000000"
-			pattern	"Solid"
-			stipple	"Solid"
-			lineWidth	1.0
-			type	"circle"
-		]
-	]
-	node
-	[
-		id	7
-		template	""
-		label	"S10"
-		graphics
-		[
-			x	220.0
-			y	200.0
+			x	105.0
+			y	5400.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -136,15 +117,34 @@ graph
 	]
 	node
 	[
-		id	8
+		id	7
 		template	""
 		label	"S59,20"
 		graphics
 		[
-			x	330.0
-			y	900.0
+			x	210.0
+			y	700.0
 			w	80.0
 			h	80.0
+			fill	"#808080"
+			outline	"#000000"
+			pattern	"Solid"
+			stipple	"Solid"
+			lineWidth	1.0
+			type	"circle"
+		]
+	]
+	node
+	[
+		id	8
+		template	""
+		label	"S21"
+		graphics
+		[
+			x	210.0
+			y	4500.0
+			w	40.0
+			h	40.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -160,8 +160,8 @@ graph
 		label	"S52,25,29"
 		graphics
 		[
-			x	330.0
-			y	1300.0
+			x	315.0
+			y	1000.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -176,11 +176,11 @@ graph
 	[
 		id	10
 		template	""
-		label	"S35,36"
+		label	"S34,28"
 		graphics
 		[
-			x	330.0
-			y	2400.0
+			x	315.0
+			y	3700.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -195,11 +195,11 @@ graph
 	[
 		id	11
 		template	""
-		label	"S37,24"
+		label	"S30,31,19,18,17,57,56"
 		graphics
 		[
-			x	330.0
-			y	4100.0
+			x	420.0
+			y	1700.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -214,11 +214,11 @@ graph
 	[
 		id	12
 		template	""
-		label	"S26,27,40,58"
+		label	"S35,36"
 		graphics
 		[
-			x	330.0
-			y	4600.0
+			x	525.0
+			y	1900.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -233,11 +233,11 @@ graph
 	[
 		id	13
 		template	""
-		label	"S11"
+		label	"S38"
 		graphics
 		[
-			x	330.0
-			y	5100.0
+			x	525.0
+			y	2100.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -252,13 +252,13 @@ graph
 	[
 		id	14
 		template	""
-		label	"S46"
+		label	"S55,54,53,50"
 		graphics
 		[
-			x	330.0
-			y	5600.0
-			w	40.0
-			h	40.0
+			x	525.0
+			y	3200.0
+			w	80.0
+			h	80.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -271,13 +271,13 @@ graph
 	[
 		id	15
 		template	""
-		label	"S21"
+		label	"S44,45"
 		graphics
 		[
-			x	440.0
-			y	1000.0
-			w	40.0
-			h	40.0
+			x	525.0
+			y	3500.0
+			w	80.0
+			h	80.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -290,11 +290,11 @@ graph
 	[
 		id	16
 		template	""
-		label	"S30,31,19,18,17,57,56"
+		label	"S9,4"
 		graphics
 		[
-			x	550.0
-			y	2000.0
+			x	525.0
+			y	5600.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -309,13 +309,13 @@ graph
 	[
 		id	17
 		template	""
-		label	"S34,28"
+		label	"S37"
 		graphics
 		[
-			x	660.0
-			y	2200.0
-			w	80.0
-			h	80.0
+			x	630.0
+			y	2000.0
+			w	40.0
+			h	40.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -328,11 +328,11 @@ graph
 	[
 		id	18
 		template	""
-		label	"S38"
+		label	"S24"
 		graphics
 		[
-			x	770.0
-			y	2500.0
+			x	630.0
+			y	3800.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -347,30 +347,11 @@ graph
 	[
 		id	19
 		template	""
-		label	"S39"
+		label	"S26,27,40"
 		graphics
 		[
-			x	770.0
-			y	3300.0
-			w	40.0
-			h	40.0
-			fill	"#808080"
-			outline	"#000000"
-			pattern	"Solid"
-			stipple	"Solid"
-			lineWidth	1.0
-			type	"circle"
-		]
-	]
-	node
-	[
-		id	20
-		template	""
-		label	"S41,42,43"
-		graphics
-		[
-			x	770.0
-			y	3900.0
+			x	630.0
+			y	4200.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -383,13 +364,32 @@ graph
 	]
 	node
 	[
-		id	21
+		id	20
 		template	""
-		label	"S16"
+		label	"S58"
 		graphics
 		[
-			x	770.0
-			y	4800.0
+			x	630.0
+			y	4400.0
+			w	40.0
+			h	40.0
+			fill	"#808080"
+			outline	"#000000"
+			pattern	"Solid"
+			stipple	"Solid"
+			lineWidth	1.0
+			type	"circle"
+		]
+	]
+	node
+	[
+		id	21
+		template	""
+		label	"S11"
+		graphics
+		[
+			x	630.0
+			y	5100.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -404,13 +404,13 @@ graph
 	[
 		id	22
 		template	""
-		label	"S55,54,53,50"
+		label	"S46"
 		graphics
 		[
-			x	880.0
-			y	2900.0
-			w	80.0
-			h	80.0
+			x	630.0
+			y	5300.0
+			w	40.0
+			h	40.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -423,13 +423,13 @@ graph
 	[
 		id	23
 		template	""
-		label	"S44,45"
+		label	"S39"
 		graphics
 		[
-			x	880.0
-			y	3200.0
-			w	80.0
-			h	80.0
+			x	735.0
+			y	2200.0
+			w	40.0
+			h	40.0
 			fill	"#808080"
 			outline	"#000000"
 			pattern	"Solid"
@@ -442,11 +442,11 @@ graph
 	[
 		id	24
 		template	""
-		label	"S9,4"
+		label	"S41,42,43"
 		graphics
 		[
-			x	880.0
-			y	5500.0
+			x	735.0
+			y	2700.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -461,11 +461,11 @@ graph
 	[
 		id	25
 		template	""
-		label	"S51"
+		label	"S16"
 		graphics
 		[
-			x	990.0
-			y	3000.0
+			x	735.0
+			y	4300.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -483,8 +483,8 @@ graph
 		label	"S13,15,14"
 		graphics
 		[
-			x	1100.0
-			y	3600.0
+			x	840.0
+			y	2500.0
 			w	80.0
 			h	80.0
 			fill	"#808080"
@@ -499,11 +499,11 @@ graph
 	[
 		id	27
 		template	""
-		label	"S23"
+		label	"S51"
 		graphics
 		[
-			x	1210.0
-			y	4200.0
+			x	945.0
+			y	3300.0
 			w	40.0
 			h	40.0
 			fill	"#808080"
@@ -518,10 +518,29 @@ graph
 	[
 		id	28
 		template	""
+		label	"S23"
+		graphics
+		[
+			x	1050.0
+			y	3900.0
+			w	40.0
+			h	40.0
+			fill	"#808080"
+			outline	"#000000"
+			pattern	"Solid"
+			stipple	"Solid"
+			lineWidth	1.0
+			type	"circle"
+		]
+	]
+	node
+	[
+		id	29
+		template	""
 		label	"S3,2,0"
 		graphics
 		[
-			x	1210.0
+			x	1050.0
 			y	5900.0
 			w	80.0
 			h	80.0
@@ -533,10 +552,29 @@ graph
 			type	"circle"
 		]
 	]
+	node
+	[
+		id	30
+		template	""
+		label	"S10"
+		graphics
+		[
+			x	1155.0
+			y	4700.0
+			w	40.0
+			h	40.0
+			fill	"#808080"
+			outline	"#000000"
+			pattern	"Solid"
+			stipple	"Solid"
+			lineWidth	1.0
+			type	"circle"
+		]
+	]
 	edge
 	[
 		source	1
-		target	28
+		target	29
 		graphics
 		[
 			type	"line"
@@ -546,8 +584,8 @@ graph
 			lineWidth	1.0000000000
 			Line [
 				point [ x 0.0 y 0.0 ]
-				point [ x 55.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
+				point [ x 52.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
 			]
 			fill	"#000000"
 		]
@@ -555,7 +593,7 @@ graph
 	edge
 	[
 		source	1
-		target	24
+		target	30
 		graphics
 		[
 			type	"line"
@@ -565,8 +603,8 @@ graph
 			lineWidth	1.0000000000
 			Line [
 				point [ x 0.0 y 0.0 ]
-				point [ x 55.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
+				point [ x 52.5 y 4690.0 ]
+				point [ x 1155.0 y 4700.0 ]
 			]
 			fill	"#000000"
 		]
@@ -574,7 +612,7 @@ graph
 	edge
 	[
 		source	1
-		target	7
+		target	16
 		graphics
 		[
 			type	"line"
@@ -584,8 +622,8 @@ graph
 			lineWidth	1.0000000000
 			Line [
 				point [ x 0.0 y 0.0 ]
-				point [ x 55.0 y 190.0 ]
-				point [ x 220.0 y 200.0 ]
+				point [ x 52.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
 			]
 			fill	"#000000"
 		]
@@ -593,7 +631,7 @@ graph
 	edge
 	[
 		source	1
-		target	5
+		target	3
 		graphics
 		[
 			type	"line"
@@ -603,8 +641,8 @@ graph
 			lineWidth	1.0000000000
 			Line [
 				point [ x 0.0 y 0.0 ]
-				point [ x 55.0 y 90.0 ]
-				point [ x 110.0 y 100.0 ]
+				point [ x 52.5 y 490.0 ]
+				point [ x 105.0 y 500.0 ]
 			]
 			fill	"#000000"
 		]
@@ -621,9 +659,28 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 700.0 ]
-				point [ x 55.0 y 4990.0 ]
-				point [ x 110.0 y 5000.0 ]
+				point [ x 0.0 y 5000.0 ]
+				point [ x 52.5 y 5390.0 ]
+				point [ x 105.0 y 5400.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	2
+		target	29
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 0.0 y 5000.0 ]
+				point [ x 52.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
 			]
 			fill	"#000000"
 		]
@@ -640,17 +697,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 700.0 ]
-				point [ x 55.0 y 4790.0 ]
-				point [ x 770.0 y 4800.0 ]
+				point [ x 0.0 y 5000.0 ]
+				point [ x 52.5 y 5090.0 ]
+				point [ x 630.0 y 5100.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	2
-		target	24
+		source	3
+		target	2
 		graphics
 		[
 			type	"line"
@@ -659,17 +716,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 700.0 ]
-				point [ x 55.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
+				point [ x 105.0 y 500.0 ]
+				point [ x 52.5 y 4990.0 ]
+				point [ x 0.0 y 5000.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	2
-		target	8
+		source	3
+		target	25
 		graphics
 		[
 			type	"line"
@@ -678,17 +735,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 700.0 ]
-				point [ x 55.0 y 890.0 ]
-				point [ x 330.0 y 900.0 ]
+				point [ x 105.0 y 500.0 ]
+				point [ x 157.5 y 4290.0 ]
+				point [ x 735.0 y 4300.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	4
-		target	24
+		source	3
+		target	16
 		graphics
 		[
 			type	"line"
@@ -697,17 +754,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 5300.0 ]
-				point [ x 55.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
+				point [ x 105.0 y 500.0 ]
+				point [ x 157.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	4
-		target	28
+		source	3
+		target	7
 		graphics
 		[
 			type	"line"
@@ -716,28 +773,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 0.0 y 5300.0 ]
-				point [ x 55.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	5
-		target	4
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 110.0 y 100.0 ]
-				point [ x 55.0 y 5290.0 ]
-				point [ x 0.0 y 5300.0 ]
+				point [ x 105.0 y 500.0 ]
+				point [ x 157.5 y 690.0 ]
+				point [ x 210.0 y 700.0 ]
 			]
 			fill	"#000000"
 		]
@@ -745,7 +783,7 @@ graph
 	edge
 	[
 		source	6
-		target	13
+		target	16
 		graphics
 		[
 			type	"line"
@@ -754,9 +792,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 110.0 y 5000.0 ]
-				point [ x 165.0 y 5090.0 ]
-				point [ x 330.0 y 5100.0 ]
+				point [ x 105.0 y 5400.0 ]
+				point [ x 157.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
 			]
 			fill	"#000000"
 		]
@@ -764,7 +802,7 @@ graph
 	edge
 	[
 		source	6
-		target	28
+		target	29
 		graphics
 		[
 			type	"line"
@@ -773,9 +811,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 110.0 y 5000.0 ]
-				point [ x 165.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
+				point [ x 105.0 y 5400.0 ]
+				point [ x 157.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
 			]
 			fill	"#000000"
 		]
@@ -783,7 +821,7 @@ graph
 	edge
 	[
 		source	7
-		target	24
+		target	29
 		graphics
 		[
 			type	"line"
@@ -792,9 +830,66 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 220.0 y 200.0 ]
-				point [ x 275.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
+				point [ x 210.0 y 700.0 ]
+				point [ x 262.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	7
+		target	21
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 210.0 y 700.0 ]
+				point [ x 262.5 y 5090.0 ]
+				point [ x 630.0 y 5100.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	7
+		target	9
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 210.0 y 700.0 ]
+				point [ x 262.5 y 990.0 ]
+				point [ x 315.0 y 1000.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	7
+		target	6
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 210.0 y 700.0 ]
+				point [ x 157.5 y 5390.0 ]
+				point [ x 105.0 y 5400.0 ]
 			]
 			fill	"#000000"
 		]
@@ -802,7 +897,7 @@ graph
 	edge
 	[
 		source	8
-		target	15
+		target	2
 		graphics
 		[
 			type	"line"
@@ -811,47 +906,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 330.0 y 900.0 ]
-				point [ x 385.0 y 990.0 ]
-				point [ x 440.0 y 1000.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	8
-		target	4
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 900.0 ]
-				point [ x 275.0 y 5290.0 ]
-				point [ x 0.0 y 5300.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	8
-		target	28
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 900.0 ]
-				point [ x 385.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
+				point [ x 210.0 y 4500.0 ]
+				point [ x 157.5 y 4990.0 ]
+				point [ x 0.0 y 5000.0 ]
 			]
 			fill	"#000000"
 		]
@@ -859,7 +916,7 @@ graph
 	edge
 	[
 		source	9
-		target	24
+		target	21
 		graphics
 		[
 			type	"line"
@@ -868,9 +925,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 385.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 5090.0 ]
+				point [ x 630.0 y 5100.0 ]
 			]
 			fill	"#000000"
 		]
@@ -878,7 +935,7 @@ graph
 	edge
 	[
 		source	9
-		target	17
+		target	18
 		graphics
 		[
 			type	"line"
@@ -887,9 +944,9 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 385.0 y 2190.0 ]
-				point [ x 660.0 y 2200.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 3790.0 ]
+				point [ x 630.0 y 3800.0 ]
 			]
 			fill	"#000000"
 		]
@@ -906,17 +963,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 385.0 y 1990.0 ]
-				point [ x 550.0 y 2000.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	10
-		target	18
+		source	9
+		target	19
 		graphics
 		[
 			type	"line"
@@ -925,187 +982,16 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 330.0 y 2400.0 ]
-				point [ x 385.0 y 2490.0 ]
-				point [ x 770.0 y 2500.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 4190.0 ]
+				point [ x 630.0 y 4200.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	11
-		target	27
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 4100.0 ]
-				point [ x 385.0 y 4190.0 ]
-				point [ x 1210.0 y 4200.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	12
-		target	6
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 4600.0 ]
-				point [ x 275.0 y 4990.0 ]
-				point [ x 110.0 y 5000.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	12
-		target	21
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 4600.0 ]
-				point [ x 385.0 y 4790.0 ]
-				point [ x 770.0 y 4800.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	13
-		target	4
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 5100.0 ]
-				point [ x 275.0 y 5290.0 ]
-				point [ x 0.0 y 5300.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	14
-		target	28
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 5600.0 ]
-				point [ x 385.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	15
-		target	6
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 440.0 y 1000.0 ]
-				point [ x 385.0 y 4990.0 ]
-				point [ x 110.0 y 5000.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	16
-		target	24
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 550.0 y 2000.0 ]
-				point [ x 605.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	16
-		target	28
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 550.0 y 2000.0 ]
-				point [ x 605.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	16
-		target	21
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 550.0 y 2000.0 ]
-				point [ x 605.0 y 4790.0 ]
-				point [ x 770.0 y 4800.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	17
+		source	9
 		target	12
 		graphics
 		[
@@ -1115,17 +1001,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 660.0 y 2200.0 ]
-				point [ x 605.0 y 4590.0 ]
-				point [ x 330.0 y 4600.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 1890.0 ]
+				point [ x 525.0 y 1900.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	17
-		target	4
+		source	9
+		target	11
 		graphics
 		[
 			type	"line"
@@ -1134,17 +1020,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 660.0 y 2200.0 ]
-				point [ x 605.0 y 5290.0 ]
-				point [ x 0.0 y 5300.0 ]
+				point [ x 315.0 y 1000.0 ]
+				point [ x 367.5 y 1690.0 ]
+				point [ x 420.0 y 1700.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	18
-		target	22
+		source	10
+		target	19
 		graphics
 		[
 			type	"line"
@@ -1153,17 +1039,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 770.0 y 2500.0 ]
-				point [ x 825.0 y 2890.0 ]
-				point [ x 880.0 y 2900.0 ]
+				point [ x 315.0 y 3700.0 ]
+				point [ x 367.5 y 4190.0 ]
+				point [ x 630.0 y 4200.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	19
-		target	26
+		source	10
+		target	5
 		graphics
 		[
 			type	"line"
@@ -1172,17 +1058,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 770.0 y 3300.0 ]
-				point [ x 825.0 y 3590.0 ]
-				point [ x 1100.0 y 3600.0 ]
+				point [ x 315.0 y 3700.0 ]
+				point [ x 262.5 y 5190.0 ]
+				point [ x 105.0 y 5200.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	21
-		target	28
+		source	11
+		target	16
 		graphics
 		[
 			type	"line"
@@ -1191,16 +1077,35 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 770.0 y 4800.0 ]
-				point [ x 825.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
+				point [ x 420.0 y 1700.0 ]
+				point [ x 472.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	22
+		source	11
+		target	29
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 420.0 y 1700.0 ]
+				point [ x 472.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	11
 		target	25
 		graphics
 		[
@@ -1210,17 +1115,17 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 880.0 y 2900.0 ]
-				point [ x 935.0 y 2990.0 ]
-				point [ x 990.0 y 3000.0 ]
+				point [ x 420.0 y 1700.0 ]
+				point [ x 472.5 y 4290.0 ]
+				point [ x 735.0 y 4300.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	23
-		target	12
+		source	12
+		target	17
 		graphics
 		[
 			type	"line"
@@ -1229,16 +1134,92 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 880.0 y 3200.0 ]
-				point [ x 825.0 y 4590.0 ]
-				point [ x 330.0 y 4600.0 ]
+				point [ x 525.0 y 1900.0 ]
+				point [ x 577.5 y 1990.0 ]
+				point [ x 630.0 y 2000.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	24
+		source	13
+		target	23
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 525.0 y 2100.0 ]
+				point [ x 577.5 y 2190.0 ]
+				point [ x 735.0 y 2200.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	14
+		target	27
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 525.0 y 3200.0 ]
+				point [ x 577.5 y 3290.0 ]
+				point [ x 945.0 y 3300.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	15
+		target	19
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 525.0 y 3500.0 ]
+				point [ x 577.5 y 4190.0 ]
+				point [ x 630.0 y 4200.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	16
+		target	29
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 525.0 y 5600.0 ]
+				point [ x 577.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	18
 		target	28
 		graphics
 		[
@@ -1248,92 +1229,16 @@ graph
 			stipple	"Solid"
 			lineWidth	1.0000000000
 			Line [
-				point [ x 880.0 y 5500.0 ]
-				point [ x 935.0 y 5890.0 ]
-				point [ x 1210.0 y 5900.0 ]
+				point [ x 630.0 y 3800.0 ]
+				point [ x 682.5 y 3890.0 ]
+				point [ x 1050.0 y 3900.0 ]
 			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	25
-		target	12
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 990.0 y 3000.0 ]
-				point [ x 935.0 y 4590.0 ]
-				point [ x 330.0 y 4600.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	26
-		target	24
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 1100.0 y 3600.0 ]
-				point [ x 1045.0 y 5490.0 ]
-				point [ x 880.0 y 5500.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	26
-		target	4
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 1100.0 y 3600.0 ]
-				point [ x 1045.0 y 5290.0 ]
-				point [ x 0.0 y 5300.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	26
-		target	6
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 1100.0 y 3600.0 ]
-				point [ x 1045.0 y 4990.0 ]
-				point [ x 110.0 y 5000.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	1
+		source	19
 		target	2
 		graphics
 		[
@@ -1342,13 +1247,208 @@ graph
 			arrow	"last"
 			stipple	"Solid"
 			lineWidth	1.0000000000
+			Line [
+				point [ x 630.0 y 4200.0 ]
+				point [ x 577.5 y 4990.0 ]
+				point [ x 0.0 y 5000.0 ]
+			]
 			fill	"#000000"
 		]
 	]
 	edge
 	[
-		source	2
-		target	3
+		source	19
+		target	25
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 630.0 y 4200.0 ]
+				point [ x 682.5 y 4290.0 ]
+				point [ x 735.0 y 4300.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	21
+		target	5
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 630.0 y 5100.0 ]
+				point [ x 577.5 y 5190.0 ]
+				point [ x 105.0 y 5200.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	22
+		target	29
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 630.0 y 5300.0 ]
+				point [ x 682.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	23
+		target	26
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 735.0 y 2200.0 ]
+				point [ x 787.5 y 2490.0 ]
+				point [ x 840.0 y 2500.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	25
+		target	29
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 735.0 y 4300.0 ]
+				point [ x 787.5 y 5890.0 ]
+				point [ x 1050.0 y 5900.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	26
+		target	16
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 840.0 y 2500.0 ]
+				point [ x 787.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	26
+		target	5
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 840.0 y 2500.0 ]
+				point [ x 787.5 y 5190.0 ]
+				point [ x 105.0 y 5200.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	26
+		target	2
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 840.0 y 2500.0 ]
+				point [ x 787.5 y 4990.0 ]
+				point [ x 0.0 y 5000.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	27
+		target	19
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 945.0 y 3300.0 ]
+				point [ x 892.5 y 4190.0 ]
+				point [ x 630.0 y 4200.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	30
+		target	16
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			Line [
+				point [ x 1155.0 y 4700.0 ]
+				point [ x 1102.5 y 5590.0 ]
+				point [ x 525.0 y 5600.0 ]
+			]
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	1
+		target	2
 		graphics
 		[
 			type	"line"
@@ -1375,6 +1475,20 @@ graph
 	]
 	edge
 	[
+		source	4
+		target	5
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			fill	"#000000"
+		]
+	]
+	edge
+	[
 		source	5
 		target	6
 		graphics
@@ -1389,8 +1503,8 @@ graph
 	]
 	edge
 	[
-		source	8
-		target	9
+		source	7
+		target	8
 		graphics
 		[
 			type	"line"
@@ -1405,34 +1519,6 @@ graph
 	[
 		source	9
 		target	10
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	10
-		target	11
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	11
-		target	12
 		graphics
 		[
 			type	"line"
@@ -1461,6 +1547,48 @@ graph
 	[
 		source	13
 		target	14
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	14
+		target	15
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	15
+		target	16
+		graphics
+		[
+			type	"line"
+			type	"line"
+			arrow	"last"
+			stipple	"Solid"
+			lineWidth	1.0000000000
+			fill	"#000000"
+		]
+	]
+	edge
+	[
+		source	17
+		target	18
 		graphics
 		[
 			type	"line"
@@ -1515,8 +1643,8 @@ graph
 	]
 	edge
 	[
-		source	22
-		target	23
+		source	21
+		target	22
 		graphics
 		[
 			type	"line"
@@ -1543,8 +1671,8 @@ graph
 	]
 	edge
 	[
-		source	27
-		target	28
+		source	24
+		target	25
 		graphics
 		[
 			type	"line"
@@ -1557,8 +1685,8 @@ graph
 	]
 	edge
 	[
-		source	8
-		target	13
+		source	28
+		target	29
 		graphics
 		[
 			type	"line"
@@ -1566,72 +1694,6 @@ graph
 			arrow	"last"
 			stipple	"Solid"
 			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 900.0 ]
-				point [ x 219.0 y 1010.0 ]
-				point [ x 219.0 y 4990.0 ]
-				point [ x 330.0 y 5100.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	9
-		target	13
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 244.0 y 1385.0 ]
-				point [ x 244.0 y 5015.0 ]
-				point [ x 330.0 y 5100.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	9
-		target	12
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 269.0 y 1360.0 ]
-				point [ x 269.0 y 4540.0 ]
-				point [ x 330.0 y 4600.0 ]
-			]
-			fill	"#000000"
-		]
-	]
-	edge
-	[
-		source	9
-		target	11
-		graphics
-		[
-			type	"line"
-			type	"line"
-			arrow	"last"
-			stipple	"Solid"
-			lineWidth	1.0000000000
-			Line [
-				point [ x 330.0 y 1300.0 ]
-				point [ x 294.0 y 1335.0 ]
-				point [ x 294.0 y 4065.0 ]
-				point [ x 330.0 y 4100.0 ]
-			]
 			fill	"#000000"
 		]
 	]

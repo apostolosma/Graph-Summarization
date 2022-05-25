@@ -1,0 +1,17 @@
+10 & 7 connected indirectly through S4 & S7
+10 & 11 connected hidden through S4 & S15
+10 & 13 connected hidden through S4 & S6
+7 & 11 connected hidden through S7 & S15
+7 & 13 connected indirectly through S7 & S6
+11 & 13 connected hidden through S15 & S6
+16 & 15 connected hidden through S30 & S35
+1 & 3 connected indirectly through S10 & S25
+18 & 14 connected indirectly through S23 & S28
+18 & 16 connected hidden through S23 & S32
+14 & 16 connected indirectly through S28 & S32
+1 & 5 connected indirectly through S9 & S17
+0 & 3 connected indirectly through S12 & S24
+0 & 1 connected indirectly through S12 & S8
+3 & 1 connected indirectly through S24 & S8
+11 & 12 connected indirectly through S14 & S20
+9 & 4 connected indirectly through S5 & S33

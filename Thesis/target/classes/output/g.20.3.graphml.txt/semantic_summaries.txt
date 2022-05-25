@@ -1,0 +1,136 @@
+# of summaries: 6Path[1]:
+	# of summaries in path: 1
+Semantic Summary ID: 2
+ w/ Common Target Node: 1
+Semantic List Tail: 12
+# of nodes: 2
+,3,12
+Color:	"#c6d3f2"
+Type:	TARGET
+
+Path[2]:
+	# of summaries in path: 3
+Semantic Summary ID: 3
+ w/ Common Target Node: 7
+Semantic List Tail: 8
+# of nodes: 6
+,10,14,13,15,16,8
+Color:	"#a1f1e1"
+Type:	TARGET
+
+Semantic Summary ID: 5
+ w/ Common Source Node: 3
+Semantic List Tail: 2
+# of nodes: 11
+,10,14,13,15,16,8,17,9,11,5,2
+Color:	"#e88bf9"
+Type:	SOURCE
+
+Semantic Summary ID: 1
+ w/ Common Target Node: 4
+Semantic List Tail: 2
+# of nodes: 6
+,8,17,9,11,5,2
+Color:	"#f690a4"
+Type:	TARGET
+
+Path[4]:
+	# of summaries in path: 2
+Semantic Summary ID: 4
+ w/ Common Source Node: 3
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#ccace4"
+Type:	SOURCE
+
+Semantic Summary ID: 6
+ w/ Common Source Node: 5
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#8df08a"
+Type:	SOURCE
+
+# of summaries: 6Path[1]:
+	# of summaries in path: 1
+Semantic Summary ID: 2
+ w/ Common Target Node: 1
+Semantic List Tail: 12
+# of nodes: 2
+,3,12
+Color:	"#d7abc4"
+Type:	TARGET
+
+Path[2]:
+	# of summaries in path: 3
+Semantic Summary ID: 3
+ w/ Common Target Node: 7
+Semantic List Tail: 8
+# of nodes: 6
+,10,14,13,15,16,8
+Color:	"#be9ffb"
+Type:	TARGET
+
+Semantic Summary ID: 5
+ w/ Common Source Node: 3
+Semantic List Tail: 2
+# of nodes: 11
+,10,14,13,15,16,8,17,9,11,5,2
+Color:	"#87acd5"
+Type:	SOURCE
+
+Semantic Summary ID: 1
+ w/ Common Target Node: 4
+Semantic List Tail: 2
+# of nodes: 6
+,8,17,9,11,5,2
+Color:	"#d0b38f"
+Type:	TARGET
+
+Path[4]:
+	# of summaries in path: 2
+Semantic Summary ID: 4
+ w/ Common Source Node: 3
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#a1a6ef"
+Type:	SOURCE
+
+Semantic Summary ID: 6
+ w/ Common Source Node: 5
+Semantic List Tail: 0
+# of nodes: 3
+,1,4,0
+Color:	"#fff78e"
+Type:	SOURCE
+
+# of summaries: 3Path[1]:
+	# of summaries in path: 1
+Semantic Summary ID: 3
+ w/ Common Target Node: 1
+Semantic List Tail: 5
+# of nodes: 7
+,3,12,19,18,9,11,5
+Color:	"#e7828f"
+Type:	TARGET
+
+Path[2]:
+	# of summaries in path: 2
+Semantic Summary ID: 1
+ w/ Common Target Node: 7
+Semantic List Tail: 8
+# of nodes: 6
+,10,14,13,15,16,8
+Color:	"#bfedf5"
+Type:	TARGET
+
+Semantic Summary ID: 2
+ w/ Common Target Node: 9
+Semantic List Tail: 17
+# of nodes: 7
+,10,14,13,15,16,8,17
+Color:	"#a18bb2"
+Type:	TARGET
+

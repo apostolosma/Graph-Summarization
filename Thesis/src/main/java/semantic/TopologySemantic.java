@@ -16,6 +16,7 @@ public class TopologySemantic {
     private LinkedList<Channel> decomposition;
     private int decompositionSize;
     private double x_dist, y_dist;
+    private int hidInfoTypeCounter;
 
     public TopologySemantic(LGraph LG, SimpleGraph G, LinkedList<Channel> decomposition, double x_dist, double y_dist) {
         this.LG = LG;
@@ -29,6 +30,7 @@ public class TopologySemantic {
         this.semanticCounter = 0;
         this.x_dist = x_dist;
         this.y_dist = y_dist;
+        this.hidInfoTypeCounter = 0;
     }
 
     public void findSemantics(String directoryname) throws IOException {
@@ -193,7 +195,16 @@ public class TopologySemantic {
         else
             connectionType = "hidden";
 
-        build.append(current.s.getCommonNode().getLabel() + " & " + iter.s.getCommonNode().getLabel() +" connected "+connectionType +" through S"+current.s.getId()+" & S"+iter.s.getId()+"\n");
+        if(connectionType == "hidden")
+        {
+            commonNodeCur.type = "\"octagon\"";
+            commonNodeIt.type = "\"octagon\"";
+            commonNodeCur.outlineWidth = 3;
+            commonNodeIt.outlineWidth = 3;
+        }
+
+        build.append(current.s.getCommonNode().getLabel() + " & " + iter.s.getCommonNode().getLabel() +" connected "+connectionType +
+                " through S"+current.s.getId()+" & S"+iter.s.getId()+", semantic summary type: " +current.s.getType()+" \n");
 
         FileWriter f = new FileWriter(directoryname+"hidden_connections.txt",true);
         f.write(build.toString());

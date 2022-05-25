@@ -1,0 +1,4 @@
+20 & 8 connected indirectly through S31 & S12
+36 & 49 connected indirectly through S20 & S27
+48 & 43 connected hidden through S29 & S35
+67 & 86 connected hidden through S32 & S33
