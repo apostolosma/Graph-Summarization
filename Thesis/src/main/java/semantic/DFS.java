@@ -3,12 +3,11 @@ package semantic;
 import graph.IVertex;
 import oldcode.*;
 
-import java.util.HashSet;
-import java.util.Deque;
-import java.util.LinkedList;
+import java.util.*;
 
 public class DFS {
     private HashSet<IVertex> visited = new HashSet<>();
+    private HashSet<LNode> visitedNodes = new HashSet<>();
     private LGraph LG;
     private IVertex targetVertex;
     private LNode targetNode;
@@ -20,7 +19,45 @@ public class DFS {
         this.targetNode = LG.getnode((int)targetVertex.getId());
     }
 
-    // This one will visit the last child first
+    public void handleQueue(PriorityQueue queue, IVertex vertex, IVertex targetLimit)
+    {
+        QueueComparator comp = new QueueComparator(LG);
+        for(IVertex target: vertex.getAdjacentTargets())
+        {
+            if(comp.compare(target,targetLimit) == 1 && !queue.contains(target)) // if node exists before target
+                queue.add(target);
+        }
+    }
+
+    /**
+     * Better version of DFS
+     * @param startVertex
+     * @param targetVertex
+     * @return
+     */
+    public boolean traverse2(IVertex startVertex, IVertex targetVertex)
+    {
+        PriorityQueue queue = new PriorityQueue(this.LG.getnodessize(), new QueueComparator(LG));
+        visited.clear();
+
+        handleQueue(queue, startVertex, targetVertex);
+        while(!queue.isEmpty())
+        {
+            IVertex current = (IVertex) queue.poll();
+            if (!visited.contains(current)) {
+                visited.add(current);
+
+                // Indirectly connected vertices
+                if(current == targetVertex)
+                    return true;
+
+                handleQueue(queue, current, targetVertex);
+            }
+        }
+        return false;
+    }
+
+    // Using a stack
     public boolean traverse(IVertex startVertex, IVertex targetVertex) {
         Deque<IVertex> stack = new LinkedList<>();
         stack.push(startVertex);
